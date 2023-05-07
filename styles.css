@@ -110,3 +110,16 @@ i.ic {
         left: 160px;
     }
 }
+
+@media (max-width: 400px) {
+    .h11 {
+            font-size: 30px;
+        }
+        
+        .h12 {
+            font-size: 40px;
+        }
+        .h1s {
+            width: 50%;
+        }
+}
